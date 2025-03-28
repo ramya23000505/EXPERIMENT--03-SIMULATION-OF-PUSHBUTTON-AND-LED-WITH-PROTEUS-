@@ -175,8 +175,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Proteus layout(Add pdf screen shot of circuit here)
- 
-  [Exp3 print op.pdf](https://github.com/user-attachments/files/19499817/Exp3.print.op.pdf)
+![image](https://github.com/user-attachments/assets/5b2d92e2-80c5-46a8-a703-f74046104a2f)
 
  
 ## Result :
